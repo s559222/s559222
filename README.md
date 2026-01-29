@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Poornima 👋
 
-<!--
-**s559222/s559222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Junior at Northwest Missouri State University.
+I am passionate about learning new technologies and building useful software.
 
-Here are some ideas to get you started:
+## What I’m currently working on
+- Web Applications
+- Cybersecurity and networking 
+- Improving my Git and GitHub skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Software Development
+- Cybersecurity
+- Artificial Intelligence and Machine Learning
+- Reading books and going on walks
+
+## Goals
+- Secure a software development internship
+- Continue building real-world projects
+- Grow my technical and communication skills
